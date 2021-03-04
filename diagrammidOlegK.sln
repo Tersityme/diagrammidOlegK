@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "diagrammidOlegK", "diagrammidOlegK\diagrammidOlegK.pyproj", "{6B76B7A5-217B-4CDE-AAD0-82C07A637DF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B76B7A5-217B-4CDE-AAD0-82C07A637DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B76B7A5-217B-4CDE-AAD0-82C07A637DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE4EEA51-1DC9-40A6-9BEA-BF0B6A736384}
+	EndGlobalSection
+EndGlobal

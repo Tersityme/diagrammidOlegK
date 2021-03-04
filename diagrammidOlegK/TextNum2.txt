@@ -1,0 +1,3 @@
+Kinnitatud,65600
+Taastunud,49908
+Surmad,589
